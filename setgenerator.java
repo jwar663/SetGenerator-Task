@@ -1,7 +1,7 @@
 class SetGenerator {
 
     /** Initialize your data structure here. */
-    public RandomizedSet() {
+    public SetGenerator() {
 
     }
 
