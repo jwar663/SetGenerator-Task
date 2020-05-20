@@ -7,7 +7,9 @@ However, they all should be implemented such that their operation time complexit
 The operations are as follow:
 
 `insert(value)`: This method inserts an item (value) to the array (set). If the value is already present, it should ignore it.
+
 `remove(value)`: This method removes an item (value) from the set. If the value is not present, then simply return.
+
 `getRandom`: This method returns a random item from the existing values in the set. Please note that each item should have
 the same probability of being returned.
 
