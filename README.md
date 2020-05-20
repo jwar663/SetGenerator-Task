@@ -1,4 +1,4 @@
-Target Sum
+Set Generator
 ==========
 
 In this task, you are required to design a simple data structure. There are only three operations in this data structure.
