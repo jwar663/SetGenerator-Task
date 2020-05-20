@@ -12,7 +12,7 @@ The operations are as follow:
 the same probability of being returned.
 
 
-Example (Java):
+Example:
 
 ````
  // Initialise an empty set.
