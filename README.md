@@ -21,19 +21,19 @@ Example:
 SetGenerator setGen = new SetGenerator();
 
  // Insert 5 to the set. Returns true as 5 was inserted successfully.
-randomSet.insert(5);
+setGen.insert(5);
 
  // Try remove 8. This should return false as 8 does not exist in the set.
-randomSet.remove(8);
+setGen.remove(8);
 
  // Insert 8 to the set.
 randomSet.insert(8);
 
 // getRandom should return either 5 or 8 randomly.
-randomSet.getRandom();
+setGen.getRandom();
 
 // 8 was already in the set, so return false.
-randomSet.insert(8);
+setGen.insert(8);
 
 ````
 
